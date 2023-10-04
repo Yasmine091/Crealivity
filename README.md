@@ -1,8 +1,6 @@
-Hey there! 👋 I'm Yasmine
-===============================================================================================================================
+# Hey there! 👋 I'm Yasmine
 
-Web and Mobile developer
-------------------------
+## Web and Mobile developer
 
 Hailing from a web and mobile dev background, I'm your coding enthusiast! My curiosity knows no bounds, I'm all about soaking up knowledge and adapting like a champ. Whether it's web or mobile, I'm here to learn, create, and have a blast doing it! I'm your go-to coder, always up for new adventures in tech. Let's build cool stuff together! 😄🚀
 
