@@ -27,7 +27,7 @@
 ### 👩🏻‍💻 About Me  
 
 I’m a **software engineer** and the mind behind **[Crealivity](https://crealivity.eu/)**.  
-Development isn’t just my job — it’s my passion. I love building side projects, experimenting with new technologies, and sharing useful tools with the community.  
+Development isn’t just my job, it’s my passion. I love building side projects, experimenting with new technologies, and sharing useful tools with the community.  
 
 I started coding at 12 (thanks to Visual Basic ✨), and I’ve been hooked ever since. By day I work as a full-stack developer; by night I tinker with side projects, explore new stacks, and keep Crealivity moving forward.  
 
