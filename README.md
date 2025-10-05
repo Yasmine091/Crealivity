@@ -1,58 +1,28 @@
----
----
+# 👋🏼 Hi there!
 
-<h1 align="center">Hey there! 👋 I'm Yasmine</h1>
-<h3 align="center">Software engineer • Open source enthusiast</h3>
+I'm **Yasmine**, a **full-stack developer** passionate about building software that’s both impactful and well-crafted.
+I started coding at **12 years old** (thanks, Visual Basic 😄) and never really stopped since.
 
----
+I recently completed my **Software Architect & Developer diploma**, and I’m now looking for a **fully remote, full-time position**, fixed-term or permanent, where I can keep growing, contribute to meaningful projects, and collaborate with creative teams.
 
-<p align="center">
-  <a href="https://crealivity.eu">
-    <img src="https://img.shields.io/badge/Crealivity-008080?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/Crealivity">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/Crealivity">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/>
-  </a>
-  <a href="https://ko-fi.com/Crealivity">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"/>
-  </a>
-</p>
+### 🌱 What I’m looking for
 
----
----
+I’m most at home in **small, dynamic teams** where there’s space to experiment and take ownership.
+My goal is to shift from freelance work toward **long-term, product-driven projects**, focusing on building real, lasting value.
 
-### 👩🏻‍💻 About Me  
+### 💡 A few things about me
 
-I’m a **software engineer** and the mind behind **[Crealivity](https://crealivity.eu/)**.  
-Development isn’t just my job, it’s my passion. I love building side projects, experimenting with new technologies, and sharing useful tools with the community.  
+* **Self-taught, curious, and persistent**, I learned by doing long before formal study.
+* **Creative problem-solver**, I love finding clean solutions to complex issues.
+* **Independent but collaborative**, I can drive my own work, yet I thrive in well-aligned teams.
+* **Always experimenting**, from backend APIs to UI/UX details, I enjoy the full stack.
 
-I started coding at 12 (thanks to Visual Basic ✨), and I’ve been hooked ever since. By day I work as a full-stack developer; by night I tinker with side projects, explore new stacks, and keep Crealivity moving forward.  
+### 💬 Let’s connect
 
-- 🌍 Based somewhere in the middle of nowhere 🌌  
-- 🖥️ Check out my portfolio at [crealivity.eu](https://crealivity.eu)  
-- ✉️ Reach me at [y.contact@malaxit.eu](mailto:y.contact@malaxit.eu)
-- 🤝 Open to collaborating on cool, impactful projects  
-- ⚡ Fun fact: I’m secretly a duck… but don’t tell anyone 🦆  
+If you’re looking for a developer who blends independence with curiosity and hands-on experience, let’s talk.
+I’d love to learn more about your projects or opportunities.
 
----
+* 📫 **Contact:** [y.contact@malaxit.eu](mailto:y.contact@malaxit.eu)
+* 🌍 **Portfolio:** [GitHub/Yasmine091](https://yasmine091.github.io)
 
-### 🌱 What i’m working on  
-- Building side projects under **Crealivity**  
-- Exploring new frameworks and tools  
-- Looking to collaborate with small, creative teams  
-
----
-
-### ☕ Support my work  
-
-I build and maintain projects in my free time. If you find them useful and want to help keep the creativity flowing:  
-
-- Buy me a coffee (one-time or recurring)  
-- Share Crealivity’s apps with others  
-- Contribute feedback, ideas, or code
-
----
----
+⭐ Thanks for stopping by, and for checking out my work! 🚀
