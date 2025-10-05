@@ -23,6 +23,6 @@ If you’re looking for a developer who blends independence with curiosity and h
 I’d love to learn more about your projects or opportunities.
 
 * 📫 **Contact:** [y.contact@malaxit.eu](mailto:y.contact@malaxit.eu)
-* 🌍 **Portfolio:** [GitHub/Yasmine091](https://yasmine091.github.io)
+* 🌍 **Portfolio:** [Netlify/Yasmine091](https://yasmine091.netlify.app)
 
 ⭐ Thanks for stopping by, and for checking out my work! 🚀
